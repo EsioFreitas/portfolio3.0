@@ -2,6 +2,8 @@ html, body {
     box-sizing: border-box;
     background-color: #f7f7f7;
     line-height: 1.2;
+    width: 100%;
+    overflow-x: hidden;
 }
 
 footer {
