@@ -1,9 +1,15 @@
 window.experiences = {
+    itrac:{
+        jobTitle: 'Pesquisador',
+        company:'Information Technology Research and Application Center',
+        duration:'2019 - atualmente',
+        description: 'Atualmente faço parte uma unidade acadêmica (ITRAC) da UnB-FGA, o qual faço parte de uma equipe de pesquisa e desenvolvimento de ferramenta na área de teste de softwares. Aleḿ disso, trabalho junto à equipe na parte de transfomação digital dos processos públicos junto ao ME (Ministério da Economina) '
+    },
     monitorOO:{
         jobTitle: 'Monitor',
         company:'Universidade de Brasilia - UnB',
         duration:'2017 - 2019',
-        description:'Como consequência do meu bom rendimento acadêmico, fui responsável por auxiliar os professores e tirar dúvidas dos alunos nas seguintes matérias: Orientação a Objetos e Introdução a Engenharia'
+        description:'Como consequência do meu bom rendimento acadêmico, fui responsável por auxiliar os professores e tirar dúvidas dos alunos nas seguintes matérias: Orientação a Objetos, Introdução a Engenharia e Métodos de Desenvolvimento de Software'
     },
     orcestra: {
         jobTitle: 'Assessor de Marketing',
