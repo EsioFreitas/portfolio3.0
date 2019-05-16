@@ -8,6 +8,7 @@ html, body {
 
 footer {
     background-color: #353535;
+    padding: 1rem;
 }
 
 footer>div {
