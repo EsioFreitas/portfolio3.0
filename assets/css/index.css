@@ -41,8 +41,8 @@
         justify-content: center;
     }
 
-    .exper{
-        margin: 2rem 0; 
+    .exper {
+        margin: 2rem 0;
     }
 
     .exper h1 {
@@ -83,27 +83,24 @@
             align-items: flex-start;
             text-align: start;
         }
-        .main__content h1{
+        .main__content h1 {
             margin: 0;
             width: 20%;
             text-align: start;
         }
-        .main__content p{
-            line-height: 1.5;            
+        .main__content p {
+            line-height: 1.5;
         }
-        .ctn{
+        .ctn {
             width: 50%;
         }
-        .exper__content{
+        .exper__content {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
             grid-gap: 1rem;
             grid-column-gap: 5rem;
         }
-        .exper__content div{
+        .exper__content div {
             margin: 0;
-            
         }
-
-        
     }
